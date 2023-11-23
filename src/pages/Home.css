@@ -1,0 +1,84 @@
+.main {
+    height: 530px;
+    width: 100%;
+    background-color: #c05993;
+}
+.product-image img {
+    width: 300px;
+    height: 500px
+}
+
+.product-details {
+    flex-direction: column;
+    align-items:flex-start;
+    width: 100%;
+}
+
+.product-details h2 {
+    align-items: flex-start;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.product-details p {
+    color:white;
+    margin: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.product-details button {
+    background-color: #f1f1f1;
+    color: #0a0909;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.section-2 {
+    border-radius: 5px;
+    background-image: url( 'https://images.ctfassets.net/wcfotm6rrl7u/3BjjImb9pIc1mVurOBaDCJ/0d729adbee23c4736b03a678e22bd420/nokia_C22-IN-BG-DTC-Hero-desktop.png?w=1593&h=889&fm=avif&q=88');
+    background-color: aquamarine;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-height: 440px;
+    background-size: cover;
+    background-position: center;
+}
+.pro-2 img {
+    width: 300px;
+    height: 380px;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.btn-2 {
+    background-color: #f1f1f1;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.sec-3{
+        border-radius: 5px;
+        background-color: gainsboro;
+        margin-left: 100px;
+        margin-right: 100px;
+        max-height: 440px;
+        background-size: cover;
+        background-position: center;
+}
+.pro-3 img {
+    width: 680px;
+    height: 440px;
+    margin-right: 80px;
+}
